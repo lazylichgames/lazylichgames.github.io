@@ -43,7 +43,7 @@ p, li { color: var(--text); }
 .game { display: flex; gap: 18px; align-items: center; }
 .game img { width: 96px; height: 96px; border-radius: 22px; flex: none; }
 .game h2 { margin: 0 0 4px; }
-.shots { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; margin-top: 16px; }
+.shots { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; margin-top: 16px; }
 .shots img { width: 100%; border-radius: 8px; border: 1px solid var(--line); display: block; }
 .lang { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 20px; }
 .lang a {
